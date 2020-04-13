@@ -1,2 +1,2 @@
 # OCU
-OCU 보조
+Copper oxide
